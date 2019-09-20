@@ -1,0 +1,7 @@
+Ex2.pdf    #忽略node_modules的单文件 
+ 
+*.pdf      #表示忽略所有 .pdf结尾的文件
+ 
+/dist      #忽略项目根目录下的 dist 文件夹,但不包括子目录下的dist文件夹
+
+build/     #忽略 build/目录下的所有文件，包括子目录下的文件
