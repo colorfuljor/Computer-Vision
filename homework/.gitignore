@@ -2,6 +2,7 @@
 *.pdf      
 *.doc
 *.zip
+*.docx
 
 #忽略项目根目录下的 dist 文件夹,但不包括子目录下的dist文件夹
 /dist      
