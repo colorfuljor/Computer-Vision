@@ -110,13 +110,13 @@ void UseCImg::saveOpX() {
 }
 
 int main() {
-	//²âÊÔÏÔÊ¾Í¼Æ¬Óë¸Ä±äÑÕÉ« 
+	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾Í¼Æ¬ï¿½ï¿½Ä±ï¿½ï¿½ï¿½É« 
 	UseCImg test;
 	test.display(); 
 	test.changeColor();
 	test.display(); 
 	
-	//¶Ô±ÈÊ¹ÓÃÓë²»Ê¹ÓÃCImg¿âµÄ²îÒì
+	//ï¿½Ô±ï¿½Ê¹ï¿½ï¿½ï¿½ë²»Ê¹ï¿½ï¿½CImgï¿½ï¿½Ä²ï¿½ï¿½ï¿½
 	UseCImg test1;
 	test1.drawTri();
 	test1.drawTriX();
@@ -135,7 +135,7 @@ int main() {
 	test3.display();
 	test3.displayX();
 	
-	//²âÊÔ±£´æÍ¼Æ¬ 
+	//ï¿½ï¿½ï¿½Ô±ï¿½ï¿½ï¿½Í¼Æ¬ 
 	UseCImg test4; 
 	test4.saveOp();
 	test4.saveOpX();
